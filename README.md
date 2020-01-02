@@ -11,7 +11,7 @@
 
 
 ### importing
-import * as former from '/node_modules/fancy-form/fancy-form.js';
+*import * as former from '/node_modules/fancy-form/fancy-form.js';*
 
 ### makeForm function
 *makeForm( '.main' , [ { placeholder:"name" },{ placeholder:"eman" } ] )*
