@@ -1,0 +1,29 @@
+{
+    "name": "form-maker",
+    "version": "1.1.0",
+    "description": "Make bootstrap forms with a few steps.",
+    "main": "form-maker.js",
+    "directories": {
+        "example": "examples"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AdibTE/form-maker.git"
+    },
+    "keywords": [
+        "form",
+        "form-maker",
+        "form-builder",
+        "bootstrap-form",
+        "bootstrap"
+    ],
+    "author": "AdibTE",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AdibTE/form-maker/issues"
+    },
+    "homepage": "https://github.com/AdibTE/form-maker#readme"
+}
