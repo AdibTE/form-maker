@@ -1,5 +1,5 @@
 {
-    "name": "form-maker",
+    "name": "fancy-form",
     "version": "1.1.0",
     "description": "Make bootstrap forms with a few steps.",
     "main": "form-maker.js",
