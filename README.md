@@ -7,7 +7,8 @@
 
 
 2. add below code to your script file
-import * as former from '/node_modules/fancy-form/fancy-form.js';
+
+* import * as former from '/node_modules/fancy-form/fancy-form.js'; *
 
 3. try using functions to make forms and elements
 
