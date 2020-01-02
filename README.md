@@ -5,13 +5,13 @@
 ### installing
 1. npm install fancy-form
 
-
-2. add below code to your script file
-
- *import * as former from '/node_modules/fancy-form/fancy-form.js'; *
+2. try importing package to your script file / or use our importing tip
 
 3. try using functions to make forms and elements
 
+
+### importing
+import * as former from '/node_modules/fancy-form/fancy-form.js';
 
 ### makeForm function
 *makeForm( '.main' , [ { placeholder:"name" },{ placeholder:"eman" } ] )*
