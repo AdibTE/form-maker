@@ -13,10 +13,12 @@
 ### importing
 *import * as former from '/node_modules/fancy-form/fancy-form.js';*
 
+
 ### makeForm function
 *makeForm( '.main' , [ { placeholder:"name" },{ placeholder:"eman" } ] )*
 
 this will make 2 inputs with placeholder attribute and append it to the main class
+
 
 
 ### createInput function
@@ -25,10 +27,12 @@ this will make 2 inputs with placeholder attribute and append it to the main cla
 this will make an input with placeholder of name and append it to the main class
 
 
+
 ### formOpt function
 *btnOpt('body','/myAction', 'GET', 'Edit Post', () => { ... });*
 
 Assign form and submit button attributes
+
 
 
 ### object attributes
