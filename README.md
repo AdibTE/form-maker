@@ -17,7 +17,7 @@
 ### makeForm function
 *makeForm( '.main' , [ { placeholder:"name" },{ placeholder:"eman" } ] )*
 
-this will make 2 inputs with placeholder attribute and append it to the main class
+this will make a form that contains a submit button and 2 inputs with attribute of placeholder then it will append it to the main class
 
 
 
