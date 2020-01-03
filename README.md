@@ -11,7 +11,7 @@
 
 
 ### importing
-*import * as former from '/node_modules/fancy-form/fancy-form.js';*
+*import * as fancyForm from '/node_modules/fancy-form/fancy-form.js';*
 
 
 ### makeForm function
